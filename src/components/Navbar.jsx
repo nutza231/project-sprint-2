@@ -27,7 +27,7 @@ const Navbar = () => {
                         <span className="flex items-center space-x-3">
                             <span>Cart</span>
                             <img
-                                src="https://tse2.mm.bing.net/th?id=OIP.36W6g6n6PVVHU4tJDXm43AHaHK&pid=Api&P=0&h=220"
+                                src="https://tse3.mm.bing.net/th?id=OIP.Ww1Niq2gmBPFhF0h1wc4IQHaHa&pid=Api&P=0&h=220"
                                 className="w-6 h-6"
                                 alt="cart icon"
                             />
@@ -40,3 +40,6 @@ const Navbar = () => {
 };
 
 export default Navbar
+
+// https://tse3.mm.bing.net/th?id=OIP.Ww1Niq2gmBPFhF0h1wc4IQHaHa&pid=Api&P=0&h=220
+// https://tse2.mm.bing.net/th?id=OIP.36W6g6n6PVVHU4tJDXm43AHaHK&pid=Api&P=0&h=220
