@@ -8,7 +8,7 @@ const Navbar = () => {
                 Sign in / 
             </span>
             <span>
-                Sign up
+                Sign up 
             </span>
         </div>
             <div className="flex justify-between items-center w-full bg-slate-600 text-white px-4 py-2 ">
@@ -16,7 +16,7 @@ const Navbar = () => {
                 
                 <div className="flex flex-row items-center space-x-4">
                     <div className="rounded-md bg-red-600 px-4 py-1 text-sm">
-                        ชาของฉัน
+                        ชาของฉันอร่อยมาก
                     </div>
 
                     <div className="flex items-center space-x-4">
